@@ -1,3 +1,6 @@
 [submodule "depend/cocoapi"]
 	path = depend/cocoapi
 	url = git@github.com:cocodataset/cocoapi.git
+[submodule "depend/vision_area"]
+	path = depend/vision_area
+	url = git@github.com:a-rud/vision_area.git
